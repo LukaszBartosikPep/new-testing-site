@@ -1,0 +1,138 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-01-15T11:44:34.579Z",
+        "before": [
+          {
+            "result": {
+              "duration": 35151300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BeforeHooks.logScenarioExecution(Scenario)"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Standard user Orders One Item",
+        "description": "",
+        "id": "saucedemo;standard-user-orders-one-item",
+        "after": [
+          {
+            "output": [
+              ""
+            ],
+            "result": {
+              "duration": 3383700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AfterHooks.takeScreenshotsIfFailed(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2533663200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "SauceDemo is opened",
+            "match": {
+              "location": "GeneralStepDefinitions.openSaucePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 208879100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I login as standard user",
+            "match": {
+              "location": "GeneralStepDefinitions.loginStandardUser()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 155706100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I add product to cart",
+            "match": {
+              "location": "GeneralStepDefinitions.addProductToCart()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 102146500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I do checkout",
+            "match": {
+              "location": "GeneralStepDefinitions.checkout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 261741000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I fill info",
+            "match": {
+              "location": "GeneralStepDefinitions.fillInfo()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 104457700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I return to home page",
+            "match": {
+              "location": "GeneralStepDefinitions.returnToHomePage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5886100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I check if homepage valid",
+            "match": {
+              "location": "GeneralStepDefinitions.homePageReturnValid()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SU_One_Item"
+          }
+        ]
+      }
+    ],
+    "name": "SauceDemo",
+    "description": "",
+    "id": "saucedemo",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/SauceDemo.feature",
+    "tags": []
+  }
+]

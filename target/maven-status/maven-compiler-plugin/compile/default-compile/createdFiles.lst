@@ -1,0 +1,8 @@
+com\automatedtest\poc\runner\standalone\StandAloneReporter.class
+com\automatedtest\poc\runner\standalone\StandAloneTestExecutor.class
+com\automatedtest\poc\LogAnnotation.class
+com\automatedtest\poc\stepdefs\GeneralStepDefinitions.class
+com\automatedtest\poc\config\SeleniumDriver.class
+com\automatedtest\poc\EnvironmentEnums.class
+com\automatedtest\poc\LogMethod.class
+com\automatedtest\poc\model\pages\GeneralPage.class

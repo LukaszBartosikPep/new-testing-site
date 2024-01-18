@@ -1,0 +1,13 @@
+service variable,LOCALHOST,TEST
+User,none,none
+Password, secret_sauce, none
+Backpack,Sauce Labs Backpack, none
+Name, John,none
+LastName, Malcovitz,none
+Postal, 70-300, none
+StandardUser, standard_user, none
+ProblemUserLogin, problem_user, none
+PerformanceGlitchUser, performance_glitch_user, none
+CheckoutStepOneUrl, https://www.saucedemo.com/checkout-step-one.html, none
+CheckoutStepTwoUrl,https://www.saucedemo.com/checkout-step-two.html, none
+HomePageUrl, https://www.saucedemo.com/inventory.html, none

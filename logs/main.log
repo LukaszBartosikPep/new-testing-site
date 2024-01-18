@@ -1,0 +1,1275 @@
+2023-12-07 13:25:03,357 [main] +---------------------------------------------------------------------------+
+2023-12-07 13:25:03,360 [main] |                       Standard user Orders One Item                       |
+2023-12-07 13:25:03,360 [main] +---------------------------------------------------------------------------+
+2023-12-07 13:25:09,885 [main] -----Scenario is FAILED-----
+2023-12-07 14:24:07,661 [main] +---------------------------------------------------------------------------+
+2023-12-07 14:24:07,665 [main] |                       Standard user Orders One Item                       |
+2023-12-07 14:24:07,665 [main] +---------------------------------------------------------------------------+
+2023-12-07 14:24:11,511 [main] -----Scenario is FAILED-----
+2023-12-07 14:54:43,220 [main] +---------------------------------------------------------------------------+
+2023-12-07 14:54:43,231 [main] |                       Standard user Orders One Item                       |
+2023-12-07 14:54:43,232 [main] +---------------------------------------------------------------------------+
+2023-12-07 14:54:49,113 [main] -----Scenario is FAILED-----
+2023-12-11 12:00:00,174 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:00:00,183 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:00:00,183 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:00:15,385 [main] -----Scenario is FAILED-----
+2023-12-11 12:08:15,396 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:08:15,399 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:08:15,399 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:08:19,134 [main] THEN I add product to cart
+2023-12-11 12:11:57,522 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:11:57,530 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:11:57,531 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:12:03,348 [main] THEN I add product to cart
+2023-12-11 12:13:22,681 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:13:22,690 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:13:22,691 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:13:27,004 [main] THEN I add product to cart
+2023-12-11 12:15:15,827 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:15:15,836 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:15:15,837 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:15:20,191 [main] THEN I add product to cart
+2023-12-11 12:49:56,829 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:49:56,833 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:49:56,833 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:50:00,405 [main] THEN I log in
+2023-12-11 12:50:00,405 [main] Set Text by selector By.id: user-name
+2023-12-11 12:50:00,477 [main] THEN I add product to cart
+2023-12-11 12:51:43,213 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:51:43,217 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:51:43,217 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:51:46,633 [main] THEN I log in
+2023-12-11 12:51:46,634 [main] Set Text by selector By.id: user-name
+2023-12-11 12:51:46,723 [main] THEN I add product to cart
+2023-12-11 12:52:50,915 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:52:50,922 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:52:50,922 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:52:54,423 [main] THEN I log in
+2023-12-11 12:52:54,423 [main] Set Text by selector By.id: user-name
+2023-12-11 12:52:54,541 [main] THEN I add product to cart
+2023-12-11 12:58:37,248 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:58:37,252 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:58:37,252 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:58:41,298 [main] THEN I log in
+2023-12-11 12:58:41,298 [main] Set Text by selector By.id: user-name
+2023-12-11 12:58:41,389 [main] Set Text by selector By.id: password
+2023-12-11 12:58:41,479 [main] Click element by selector By.id: login-button
+2023-12-11 12:59:12,264 [main] -----Scenario is FAILED-----
+2023-12-11 12:59:33,347 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:59:33,351 [main] |                       Standard user Orders One Item                       |
+2023-12-11 12:59:33,351 [main] +---------------------------------------------------------------------------+
+2023-12-11 12:59:36,779 [main] THEN I log in
+2023-12-11 12:59:36,779 [main] Set Text by selector By.id: user-name
+2023-12-11 12:59:36,863 [main] Set Text by selector By.id: password
+2023-12-11 12:59:36,975 [main] Click element by selector By.id: login-button
+2023-12-11 13:00:07,743 [main] -----Scenario is FAILED-----
+2023-12-11 13:02:02,412 [main] +---------------------------------------------------------------------------+
+2023-12-11 13:02:02,418 [main] |                       Standard user Orders One Item                       |
+2023-12-11 13:02:02,418 [main] +---------------------------------------------------------------------------+
+2023-12-11 13:02:06,516 [main] THEN I log in
+2023-12-11 13:02:06,517 [main] Set Text by selector By.id: user-name
+2023-12-11 13:02:06,602 [main] Set Text by selector By.id: password
+2023-12-11 13:02:06,698 [main] THEN I add product to cart
+2023-12-12 12:03:25,705 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:03:25,709 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:03:25,709 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:03:30,556 [main] THEN I log in
+2023-12-12 12:03:30,557 [main] Set Text by selector By.id: user-name
+2023-12-12 12:03:30,639 [main] Set Text by selector By.id: password
+2023-12-12 12:03:30,747 [main] THEN I add product to cart
+2023-12-12 12:09:59,411 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:09:59,424 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:09:59,424 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:10:04,282 [main] THEN I log in
+2023-12-12 12:10:04,282 [main] Set Text by selector By.id: user-name
+2023-12-12 12:10:04,392 [main] Set Text by selector By.id: password
+2023-12-12 12:10:04,504 [main] THEN I add product to cart
+2023-12-12 12:10:04,504 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:12:33,429 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:12:33,433 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:12:33,434 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:12:37,733 [main] THEN I log in
+2023-12-12 12:12:37,734 [main] Set Text by selector By.id: user-name
+2023-12-12 12:12:37,853 [main] Set Text by selector By.id: password
+2023-12-12 12:12:37,990 [main] THEN I add product to cart
+2023-12-12 12:12:37,990 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:13:02,620 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:13:02,629 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:13:02,629 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:13:07,194 [main] THEN I log in
+2023-12-12 12:13:07,194 [main] Set Text by selector By.id: user-name
+2023-12-12 12:13:07,315 [main] Set Text by selector By.id: password
+2023-12-12 12:13:07,453 [main] THEN I add product to cart
+2023-12-12 12:13:07,454 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:13:07,543 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:15:01,162 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:15:01,165 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:15:01,165 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:15:04,900 [main] THEN I log in
+2023-12-12 12:15:04,900 [main] Set Text by selector By.id: user-name
+2023-12-12 12:15:05,009 [main] Set Text by selector By.id: password
+2023-12-12 12:15:05,122 [main] THEN I add product to cart
+2023-12-12 12:15:05,123 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:15:05,208 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:15:05,269 [main] Click element by selector By.id: checkout
+2023-12-12 12:19:26,103 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:19:26,107 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:19:26,107 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:19:29,491 [main] THEN I log in
+2023-12-12 12:19:29,491 [main] Set Text by selector By.id: user-name
+2023-12-12 12:19:29,606 [main] Set Text by selector By.id: password
+2023-12-12 12:19:29,741 [main] THEN I add product to cart
+2023-12-12 12:19:29,741 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:19:29,828 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:19:29,917 [main] Click element by selector By.id: checkout
+2023-12-12 12:19:29,995 [main] Set Text by selector By.id: first-name
+2023-12-12 12:19:30,097 [main] Set Text by selector By.id: last-name
+2023-12-12 12:20:00,780 [main] -----Scenario is FAILED-----
+2023-12-12 12:20:05,404 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:20:05,408 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:20:05,408 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:20:09,396 [main] THEN I log in
+2023-12-12 12:20:09,396 [main] Set Text by selector By.id: user-name
+2023-12-12 12:20:09,514 [main] Set Text by selector By.id: password
+2023-12-12 12:20:09,645 [main] THEN I add product to cart
+2023-12-12 12:20:09,645 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:20:09,730 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:20:09,812 [main] Click element by selector By.id: checkout
+2023-12-12 12:20:09,873 [main] Set Text by selector By.id: first-name
+2023-12-12 12:20:09,949 [main] Set Text by selector By.id: last-name
+2023-12-12 12:20:40,663 [main] -----Scenario is FAILED-----
+2023-12-12 12:31:52,794 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:31:52,798 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:31:52,798 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:31:56,167 [main] THEN I log in
+2023-12-12 12:31:56,167 [main] Set Text by selector By.id: user-name
+2023-12-12 12:31:56,247 [main] Set Text by selector By.id: password
+2023-12-12 12:31:56,337 [main] THEN I add product to cart
+2023-12-12 12:31:56,337 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:31:56,397 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:31:56,453 [main] Click element by selector By.id: checkout
+2023-12-12 12:31:56,508 [main] Set Text by selector By.id: first-name
+2023-12-12 12:31:56,570 [main] Set Text by selector By.id: last-name
+2023-12-12 12:32:27,387 [main] -----Scenario is FAILED-----
+2023-12-12 12:36:23,874 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:36:23,884 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:36:23,885 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:36:28,373 [main] THEN I log in
+2023-12-12 12:36:28,373 [main] Set Text by selector By.id: user-name
+2023-12-12 12:36:28,494 [main] Set Text by selector By.id: password
+2023-12-12 12:36:28,623 [main] THEN I add product to cart
+2023-12-12 12:36:28,624 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:36:28,693 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:36:28,755 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-12 12:36:28,810 [main] Set Text by selector By.id: first-name
+2023-12-12 12:36:28,916 [main] Set Text by selector By.id: last-name
+2023-12-12 12:37:01,995 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:37:02,006 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:37:02,007 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:37:06,358 [main] THEN I log in
+2023-12-12 12:37:06,358 [main] Set Text by selector By.id: user-name
+2023-12-12 12:37:06,480 [main] Set Text by selector By.id: password
+2023-12-12 12:37:06,641 [main] THEN I add product to cart
+2023-12-12 12:37:06,641 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:37:06,731 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:37:06,817 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-12 12:39:45,945 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:39:45,952 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:39:45,953 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:39:50,721 [main] THEN I log in
+2023-12-12 12:39:50,721 [main] Set Text by selector By.id: user-name
+2023-12-12 12:39:50,877 [main] Set Text by selector By.id: password
+2023-12-12 12:39:51,050 [main] THEN I add product to cart
+2023-12-12 12:39:51,051 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:39:51,132 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:39:51,190 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-12 12:39:51,256 [main] Set Text by selector By.id: first-name
+2023-12-12 12:39:51,330 [main] Set Text by selector By.id: last-name
+2023-12-12 12:39:51,425 [main] Set Text by selector By.id: postal-code
+2023-12-12 12:45:31,068 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:45:31,073 [main] |                       Standard user Orders One Item                       |
+2023-12-12 12:45:31,073 [main] +---------------------------------------------------------------------------+
+2023-12-12 12:45:34,586 [main] THEN I log in
+2023-12-12 12:45:34,586 [main] Set Text by selector By.id: user-name
+2023-12-12 12:45:34,672 [main] Set Text by selector By.id: password
+2023-12-12 12:45:34,770 [main] THEN I add product to cart
+2023-12-12 12:45:34,770 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 12:45:34,835 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 12:45:34,886 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-12 12:45:34,944 [main] Set Text by selector By.id: first-name
+2023-12-12 12:45:34,994 [main] Set Text by selector By.id: last-name
+2023-12-12 12:45:35,072 [main] Set Text by selector By.id: postal-code
+2023-12-12 13:11:46,337 [main] +---------------------------------------------------------------------------+
+2023-12-12 13:11:46,341 [main] |                       Standard user Orders One Item                       |
+2023-12-12 13:11:46,341 [main] +---------------------------------------------------------------------------+
+2023-12-12 13:11:50,679 [main] THEN I log in
+2023-12-12 13:11:50,682 [main] Set Text by selector By.id: user-name
+2023-12-12 13:11:50,797 [main] Set Text by selector By.id: password
+2023-12-12 13:11:50,895 [main] THEN I add product to cart
+2023-12-12 13:11:50,895 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 13:11:50,951 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 13:11:51,005 [main] THEN Checkout
+2023-12-12 13:11:51,005 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-12 13:11:51,067 [main] Set Text by selector By.id: first-name
+2023-12-12 13:11:51,137 [main] Set Text by selector By.id: last-name
+2023-12-12 13:11:51,209 [main] Set Text by selector By.id: postal-code
+2023-12-12 13:13:03,664 [main] +---------------------------------------------------------------------------+
+2023-12-12 13:13:03,668 [main] |                       Standard user Orders One Item                       |
+2023-12-12 13:13:03,668 [main] +---------------------------------------------------------------------------+
+2023-12-12 13:13:07,797 [main] THEN I log in
+2023-12-12 13:13:07,798 [main] Set Text by selector By.id: user-name
+2023-12-12 13:13:07,966 [main] Set Text by selector By.id: password
+2023-12-12 13:13:08,140 [main] THEN I add product to cart
+2023-12-12 13:13:08,140 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 13:13:08,235 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 13:13:08,339 [main] THEN Checkout
+2023-12-12 13:13:08,340 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-12 13:13:08,433 [main] Set Text by selector By.id: first-name
+2023-12-12 13:13:08,534 [main] Set Text by selector By.id: last-name
+2023-12-12 13:13:08,660 [main] Set Text by selector By.id: postal-code
+2023-12-12 13:13:08,765 [main] Click element by selector By.id: continue
+2023-12-12 13:27:38,636 [main] +---------------------------------------------------------------------------+
+2023-12-12 13:27:38,642 [main] |                       Standard user Orders One Item                       |
+2023-12-12 13:27:38,642 [main] +---------------------------------------------------------------------------+
+2023-12-12 13:27:42,158 [main] THEN I log in
+2023-12-12 13:27:42,158 [main] Set Text by selector By.id: user-name
+2023-12-12 13:27:42,241 [main] Set Text by selector By.id: password
+2023-12-12 13:27:42,342 [main] THEN I add product to cart
+2023-12-12 13:27:42,342 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 13:27:42,406 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 13:27:42,470 [main] THEN Checkout
+2023-12-12 13:27:42,471 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-12 13:27:42,524 [main] Set Text by selector By.id: first-name
+2023-12-12 13:27:42,580 [main] Set Text by selector By.id: last-name
+2023-12-12 13:27:42,654 [main] Set Text by selector By.id: postal-code
+2023-12-12 13:27:42,722 [main] Click element by selector By.id: continue
+2023-12-12 13:27:42,787 [main] Click element by selector By.id: finish
+2023-12-12 13:36:19,913 [main] +---------------------------------------------------------------------------+
+2023-12-12 13:36:19,918 [main] |                       Standard user Orders One Item                       |
+2023-12-12 13:36:19,918 [main] +---------------------------------------------------------------------------+
+2023-12-12 13:36:23,348 [main] THEN I log in
+2023-12-12 13:36:23,348 [main] Set Text by selector By.id: user-name
+2023-12-12 13:36:23,504 [main] Set Text by selector By.id: password
+2023-12-12 13:36:23,682 [main] THEN I add product to cart
+2023-12-12 13:36:23,683 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-12 13:36:23,798 [main] Click element by selector By.className: shopping_cart_link
+2023-12-12 13:36:23,899 [main] THEN Checkout
+2023-12-12 13:36:23,899 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-12 13:36:23,981 [main] Set Text by selector By.id: first-name
+2023-12-12 13:36:24,089 [main] Set Text by selector By.id: last-name
+2023-12-12 13:36:24,214 [main] Set Text by selector By.id: postal-code
+2023-12-12 13:36:24,323 [main] Click element by selector By.id: continue
+2023-12-12 13:36:24,386 [main] Click element by selector By.id: finish
+2023-12-13 11:51:38,183 [main] +---------------------------------------------------------------------------+
+2023-12-13 11:51:38,188 [main] |                       Standard user Orders One Item                       |
+2023-12-13 11:51:38,188 [main] +---------------------------------------------------------------------------+
+2023-12-13 11:51:42,862 [main] THEN I log in
+2023-12-13 11:51:42,863 [main] Set Text by selector By.id: user-name
+2023-12-13 11:51:42,944 [main] Set Text by selector By.id: password
+2023-12-13 11:51:43,054 [main] THEN I add product to cart
+2023-12-13 11:51:43,054 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-13 11:51:43,124 [main] Click element by selector By.className: shopping_cart_link
+2023-12-13 11:51:43,179 [main] THEN Checkout
+2023-12-13 11:51:43,179 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-13 11:51:43,239 [main] Set Text by selector By.id: first-name
+2023-12-13 11:51:43,293 [main] Set Text by selector By.id: last-name
+2023-12-13 11:51:43,375 [main] Set Text by selector By.id: postal-code
+2023-12-13 11:51:43,433 [main] Click element by selector By.id: continue
+2023-12-13 11:51:43,492 [main] Click element by selector By.id: finish
+2023-12-18 10:40:40,186 [main] +---------------------------------------------------------------------------+
+2023-12-18 10:40:40,192 [main] |                       Standard user Orders One Item                       |
+2023-12-18 10:40:40,192 [main] +---------------------------------------------------------------------------+
+2023-12-18 10:40:44,637 [main] THEN I log in
+2023-12-18 10:40:44,637 [main] Set Text by selector By.id: user-name
+2023-12-18 10:40:44,720 [main] Set Text by selector By.id: password
+2023-12-18 10:40:44,821 [main] THEN I add product to cart
+2023-12-18 10:40:44,821 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 10:40:44,878 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 10:40:44,937 [main] THEN Checkout
+2023-12-18 10:40:44,937 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 10:40:44,981 [main] THEN Fill info {string} {string} {string}
+2023-12-18 10:40:44,981 [main] Set Text by selector By.id: first-name
+2023-12-18 10:40:45,039 [main] Set Text by selector By.id: last-name
+2023-12-18 10:40:45,117 [main] Set Text by selector By.id: postal-code
+2023-12-18 10:40:45,185 [main] Click element by selector By.id: continue
+2023-12-18 10:40:45,242 [main] THEN Return to home page
+2023-12-18 10:40:45,243 [main] THEN Page should be valid
+2023-12-18 10:41:17,809 [main] +---------------------------------------------------------------------------+
+2023-12-18 10:41:17,813 [main] |                       Standard user Orders One Item                       |
+2023-12-18 10:41:17,813 [main] +---------------------------------------------------------------------------+
+2023-12-18 10:41:21,247 [main] THEN I log in
+2023-12-18 10:41:21,248 [main] Set Text by selector By.id: user-name
+2023-12-18 10:41:21,327 [main] Set Text by selector By.id: password
+2023-12-18 10:41:21,431 [main] THEN I add product to cart
+2023-12-18 10:41:21,431 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 10:41:21,483 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 10:41:21,531 [main] THEN Checkout
+2023-12-18 10:41:21,531 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 10:41:21,572 [main] THEN Fill info {string} {string} {string}
+2023-12-18 10:41:21,572 [main] Set Text by selector By.id: first-name
+2023-12-18 10:41:21,628 [main] Set Text by selector By.id: last-name
+2023-12-18 10:41:21,700 [main] Set Text by selector By.id: postal-code
+2023-12-18 10:41:21,757 [main] Click element by selector By.id: continue
+2023-12-18 10:41:21,815 [main] THEN Return to home page
+2023-12-18 10:41:21,815 [main] THEN Page should be valid
+2023-12-18 10:57:32,260 [main] +---------------------------------------------------------------------------+
+2023-12-18 10:57:32,264 [main] |                       Standard user Orders One Item                       |
+2023-12-18 10:57:32,264 [main] +---------------------------------------------------------------------------+
+2023-12-18 10:57:37,089 [main] THEN I log in
+2023-12-18 10:57:37,089 [main] Set Text by selector By.id: user-name
+2023-12-18 10:57:37,173 [main] Set Text by selector By.id: password
+2023-12-18 10:57:37,288 [main] THEN I add product to cart
+2023-12-18 10:57:37,288 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 10:57:37,350 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 10:57:37,404 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 10:57:37,448 [main] THEN Checkout
+2023-12-18 10:57:37,448 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 10:57:37,502 [main] THEN Fill info {string} {string} {string}
+2023-12-18 10:57:37,502 [main] Set Text by selector By.id: first-name
+2023-12-18 10:57:37,576 [main] Set Text by selector By.id: last-name
+2023-12-18 10:57:37,660 [main] Set Text by selector By.id: postal-code
+2023-12-18 10:57:37,726 [main] Click element by selector By.id: continue
+2023-12-18 10:57:37,784 [main] THEN Return to home page
+2023-12-18 10:57:37,784 [main] THEN Page should be valid
+2023-12-18 10:58:34,522 [main] +---------------------------------------------------------------------------+
+2023-12-18 10:58:34,527 [main] |                       Standard user Orders One Item                       |
+2023-12-18 10:58:34,527 [main] +---------------------------------------------------------------------------+
+2023-12-18 10:58:37,999 [main] THEN I log in
+2023-12-18 10:58:37,999 [main] Set Text by selector By.id: user-name
+2023-12-18 10:58:38,083 [main] Set Text by selector By.id: password
+2023-12-18 10:58:38,195 [main] THEN I add product to cart
+2023-12-18 10:58:38,195 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 10:58:38,251 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 10:58:38,298 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 10:58:38,342 [main] THEN Checkout
+2023-12-18 10:58:38,342 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 10:58:38,395 [main] THEN Fill info {string} {string} {string}
+2023-12-18 10:58:38,395 [main] Set Text by selector By.id: first-name
+2023-12-18 10:58:38,461 [main] Set Text by selector By.id: last-name
+2023-12-18 10:58:38,534 [main] Set Text by selector By.id: postal-code
+2023-12-18 10:58:38,602 [main] Click element by selector By.id: continue
+2023-12-18 10:58:38,660 [main] THEN Return to home page
+2023-12-18 10:58:38,660 [main] THEN Page should be valid
+2023-12-18 11:00:08,322 [main] +---------------------------------------------------------------------------+
+2023-12-18 11:00:08,327 [main] |                       Standard user Orders One Item                       |
+2023-12-18 11:00:08,328 [main] +---------------------------------------------------------------------------+
+2023-12-18 11:00:11,696 [main] THEN I log in
+2023-12-18 11:00:11,696 [main] Set Text by selector By.id: user-name
+2023-12-18 11:00:11,777 [main] Set Text by selector By.id: password
+2023-12-18 11:00:11,880 [main] THEN I add product to cart
+2023-12-18 11:00:11,880 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 11:00:11,938 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 11:00:11,995 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 11:00:12,054 [main] THEN Checkout
+2023-12-18 11:00:12,054 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 11:00:12,099 [main] THEN Fill info {string} {string} {string}
+2023-12-18 11:00:12,100 [main] Set Text by selector By.id: first-name
+2023-12-18 11:00:12,159 [main] Set Text by selector By.id: last-name
+2023-12-18 11:00:12,228 [main] Set Text by selector By.id: postal-code
+2023-12-18 11:00:12,296 [main] Click element by selector By.id: continue
+2023-12-18 11:00:12,355 [main] THEN Return to home page
+2023-12-18 11:00:12,355 [main] THEN Page should be valid
+2023-12-18 11:50:30,171 [main] +---------------------------------------------------------------------------+
+2023-12-18 11:50:30,175 [main] |                       Standard user Orders One Item                       |
+2023-12-18 11:50:30,175 [main] +---------------------------------------------------------------------------+
+2023-12-18 11:50:34,286 [main] THEN I log in
+2023-12-18 11:50:34,287 [main] Set Text by selector By.id: user-name
+2023-12-18 11:50:34,358 [main] Set Text by selector By.id: password
+2023-12-18 11:50:34,465 [main] THEN I add product to cart
+2023-12-18 11:50:34,465 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 11:50:34,526 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 11:50:34,580 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 11:50:34,624 [main] THEN Checkout
+2023-12-18 11:50:34,624 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 11:50:34,674 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-18 11:51:05,441 [main] -----Scenario is FAILED-----
+2023-12-18 11:53:14,841 [main] +---------------------------------------------------------------------------+
+2023-12-18 11:53:14,845 [main] |                       Standard user Orders One Item                       |
+2023-12-18 11:53:14,846 [main] +---------------------------------------------------------------------------+
+2023-12-18 11:53:18,288 [main] THEN I log in
+2023-12-18 11:53:18,288 [main] Set Text by selector By.id: user-name
+2023-12-18 11:53:18,383 [main] Set Text by selector By.id: password
+2023-12-18 11:53:18,483 [main] THEN I add product to cart
+2023-12-18 11:53:18,483 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 11:53:18,540 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 11:53:18,605 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 11:53:18,661 [main] THEN Checkout
+2023-12-18 11:53:18,661 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-18 11:53:18,705 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 11:53:18,752 [main] THEN Fill info {string} {string} {string}
+2023-12-18 11:53:18,752 [main] Set Text by selector By.id: first-name
+2023-12-18 11:53:18,815 [main] Set Text by selector By.id: last-name
+2023-12-18 11:53:18,882 [main] Set Text by selector By.id: postal-code
+2023-12-18 11:53:18,944 [main] Click element by selector By.id: continue
+2023-12-18 11:53:19,003 [main] THEN Return to home page
+2023-12-18 11:53:19,003 [main] THEN Page should be valid
+2023-12-18 12:04:55,731 [main] +---------------------------------------------------------------------------+
+2023-12-18 12:04:55,740 [main] |                       Standard user Orders One Item                       |
+2023-12-18 12:04:55,741 [main] +---------------------------------------------------------------------------+
+2023-12-18 12:05:00,389 [main] THEN I log in
+2023-12-18 12:05:00,390 [main] Set Text by selector By.id: user-name
+2023-12-18 12:05:00,465 [main] Set Text by selector By.id: password
+2023-12-18 12:05:00,574 [main] THEN I add product to cart
+2023-12-18 12:05:00,574 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 12:05:00,649 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 12:05:00,704 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 12:05:00,760 [main] THEN Checkout
+2023-12-18 12:05:00,760 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-18 12:05:00,804 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 12:05:00,856 [main] THEN Fill info {string} {string} {string}
+2023-12-18 12:05:00,856 [main] Set Text by selector By.id: first-name
+2023-12-18 12:05:00,915 [main] Set Text by selector By.id: last-name
+2023-12-18 12:05:00,985 [main] Set Text by selector By.id: postal-code
+2023-12-18 12:05:01,053 [main] Click element by selector By.id: continue
+2023-12-18 12:05:01,127 [main] THEN Return to home page
+2023-12-18 12:05:01,128 [main] THEN Page should be valid
+2023-12-18 12:06:47,539 [main] +---------------------------------------------------------------------------+
+2023-12-18 12:06:47,543 [main] |                       Standard user Orders One Item                       |
+2023-12-18 12:06:47,543 [main] +---------------------------------------------------------------------------+
+2023-12-18 12:06:52,336 [main] THEN I log in
+2023-12-18 12:06:52,336 [main] Set Text by selector By.id: user-name
+2023-12-18 12:06:52,557 [main] Set Text by selector By.id: password
+2023-12-18 12:06:52,766 [main] THEN I add product to cart
+2023-12-18 12:06:52,767 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 12:06:52,868 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 12:06:52,975 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 12:06:53,042 [main] THEN Checkout
+2023-12-18 12:06:53,042 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-18 12:06:53,097 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 12:06:53,156 [main] THEN Fill info {string} {string} {string}
+2023-12-18 12:06:53,157 [main] Set Text by selector By.id: first-name
+2023-12-18 12:06:53,249 [main] Set Text by selector By.id: last-name
+2023-12-18 12:06:53,384 [main] Set Text by selector By.id: postal-code
+2023-12-18 12:06:53,478 [main] Click element by selector By.id: continue
+2023-12-18 12:06:53,576 [main] THEN Return to home page
+2023-12-18 12:06:53,576 [main] THEN Page should be valid
+2023-12-18 12:14:28,153 [main] +---------------------------------------------------------------------------+
+2023-12-18 12:14:28,157 [main] |                       Standard user Orders One Item                       |
+2023-12-18 12:14:28,157 [main] +---------------------------------------------------------------------------+
+2023-12-18 12:14:31,636 [main] THEN I log in
+2023-12-18 12:14:31,637 [main] Set Text by selector By.id: user-name
+2023-12-18 12:14:31,711 [main] Set Text by selector By.id: password
+2023-12-18 12:14:31,820 [main] THEN I add product to cart
+2023-12-18 12:14:31,820 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 12:14:31,875 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 12:14:31,922 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 12:14:31,968 [main] THEN Checkout
+2023-12-18 12:14:31,968 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-18 12:14:32,014 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-18 12:14:32,061 [main] THEN Fill info {string} {string} {string}
+2023-12-18 12:14:32,061 [main] Set Text by selector By.id: first-name
+2023-12-18 12:14:32,124 [main] Set Text by selector By.id: last-name
+2023-12-18 12:14:32,197 [main] Set Text by selector By.id: postal-code
+2023-12-18 12:14:32,255 [main] Click element by selector By.id: continue
+2023-12-18 12:14:32,337 [main] THEN Return to home page
+2023-12-18 12:14:32,337 [main] Click element by selector By.id: finish
+2023-12-18 12:14:32,389 [main] Click element by selector By.id: back-to-products
+2023-12-18 12:14:32,438 [main] THEN Page should be valid
+2023-12-18 13:18:34,507 [main] +---------------------------------------------------------------------------+
+2023-12-18 13:18:34,510 [main] |                       Standard user Orders One Item                       |
+2023-12-18 13:18:34,510 [main] +---------------------------------------------------------------------------+
+2023-12-18 13:18:38,677 [main] THEN I log in
+2023-12-18 13:18:38,677 [main] Set Text by selector By.id: user-name
+2023-12-18 13:18:38,756 [main] Set Text by selector By.id: password
+2023-12-18 13:18:38,873 [main] THEN I add product to cart
+2023-12-18 13:18:38,873 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 13:18:38,942 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 13:18:39,006 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 13:18:39,064 [main] THEN Checkout
+2023-12-18 13:18:39,064 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-18 13:18:39,121 [main] -----Scenario is FAILED-----
+2023-12-18 13:23:32,318 [main] +---------------------------------------------------------------------------+
+2023-12-18 13:23:32,322 [main] |                       Standard user Orders One Item                       |
+2023-12-18 13:23:32,323 [main] +---------------------------------------------------------------------------+
+2023-12-18 13:23:35,791 [main] THEN I log in
+2023-12-18 13:23:35,791 [main] Set Text by selector By.id: user-name
+2023-12-18 13:23:35,866 [main] Set Text by selector By.id: password
+2023-12-18 13:23:35,975 [main] THEN I add product to cart
+2023-12-18 13:23:35,975 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 13:23:36,033 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 13:23:36,090 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 13:23:36,137 [main] THEN Checkout
+2023-12-18 13:23:36,137 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-18 13:23:36,191 [main] -----Scenario is FAILED-----
+2023-12-18 13:29:53,943 [main] +---------------------------------------------------------------------------+
+2023-12-18 13:29:53,947 [main] |                       Standard user Orders One Item                       |
+2023-12-18 13:29:53,948 [main] +---------------------------------------------------------------------------+
+2023-12-18 13:29:57,471 [main] THEN I log in
+2023-12-18 13:29:57,471 [main] Set Text by selector By.id: user-name
+2023-12-18 13:29:57,570 [main] Set Text by selector By.id: password
+2023-12-18 13:29:57,695 [main] THEN I add product to cart
+2023-12-18 13:29:57,695 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-18 13:29:57,749 [main] Click element by selector By.className: shopping_cart_link
+2023-12-18 13:29:57,815 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-18 13:29:57,868 [main] THEN Checkout
+2023-12-18 13:29:57,868 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-18 13:29:57,925 [main] -----Scenario is FAILED-----
+2023-12-19 09:34:33,842 [main] +---------------------------------------------------------------------------+
+2023-12-19 09:34:33,849 [main] |                       Standard user Orders One Item                       |
+2023-12-19 09:34:33,850 [main] +---------------------------------------------------------------------------+
+2023-12-19 09:34:38,588 [main] THEN I log in
+2023-12-19 09:34:38,588 [main] Set Text by selector By.id: user-name
+2023-12-19 09:34:38,687 [main] Set Text by selector By.id: password
+2023-12-19 09:34:38,831 [main] THEN I add product to cart
+2023-12-19 09:34:38,832 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 09:34:38,886 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 09:34:38,930 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 09:34:38,974 [main] THEN Checkout
+2023-12-19 09:34:38,975 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 09:34:39,032 [main] -----Scenario is FAILED-----
+2023-12-19 09:44:26,381 [main] +---------------------------------------------------------------------------+
+2023-12-19 09:44:26,388 [main] |                       Standard user Orders One Item                       |
+2023-12-19 09:44:26,388 [main] +---------------------------------------------------------------------------+
+2023-12-19 09:44:30,124 [main] THEN I log in
+2023-12-19 09:44:30,124 [main] Set Text by selector By.id: user-name
+2023-12-19 09:44:30,258 [main] Set Text by selector By.id: password
+2023-12-19 09:44:30,454 [main] THEN I add product to cart
+2023-12-19 09:44:30,454 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 09:44:30,538 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 09:44:30,630 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 09:44:30,690 [main] THEN Checkout
+2023-12-19 09:44:30,690 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 09:44:30,733 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-19 09:44:30,796 [main] THEN Fill info {string} {string} {string}
+2023-12-19 09:44:30,797 [main] Set Text by selector By.id: first-name
+2023-12-19 09:44:30,870 [main] Set Text by selector By.id: last-name
+2023-12-19 09:44:30,945 [main] Set Text by selector By.id: postal-code
+2023-12-19 09:44:31,004 [main] Click element by selector By.id: continue
+2023-12-19 09:44:31,072 [main] THEN Return to home page
+2023-12-19 09:44:31,072 [main] Click element by selector By.id: finish
+2023-12-19 09:44:31,125 [main] Click element by selector By.id: back-to-products
+2023-12-19 09:44:31,182 [main] THEN Page should be valid
+2023-12-19 09:53:59,198 [main] +---------------------------------------------------------------------------+
+2023-12-19 09:53:59,203 [main] |                       Standard user Orders One Item                       |
+2023-12-19 09:53:59,203 [main] +---------------------------------------------------------------------------+
+2023-12-19 09:54:02,877 [main] THEN I log in
+2023-12-19 09:54:02,877 [main] Set Text by selector By.id: user-name
+2023-12-19 09:54:02,951 [main] Set Text by selector By.id: password
+2023-12-19 09:54:03,058 [main] THEN I add product to cart
+2023-12-19 09:54:03,058 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 09:54:03,127 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 09:54:03,179 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 09:54:03,234 [main] THEN Checkout
+2023-12-19 09:54:03,234 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 09:54:03,289 [main] -----Scenario is FAILED-----
+2023-12-19 09:58:45,194 [main] +---------------------------------------------------------------------------+
+2023-12-19 09:58:45,197 [main] |                       Standard user Orders One Item                       |
+2023-12-19 09:58:45,198 [main] +---------------------------------------------------------------------------+
+2023-12-19 09:58:48,716 [main] THEN I log in
+2023-12-19 09:58:48,716 [main] Set Text by selector By.id: user-name
+2023-12-19 09:58:48,828 [main] Set Text by selector By.id: password
+2023-12-19 09:58:48,991 [main] THEN I add product to cart
+2023-12-19 09:58:48,992 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 09:58:49,050 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 09:58:49,117 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 09:58:49,165 [main] THEN Checkout
+2023-12-19 09:58:49,165 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 09:58:49,255 [main] -----Scenario is FAILED-----
+2023-12-19 10:03:29,332 [main] +---------------------------------------------------------------------------+
+2023-12-19 10:03:29,336 [main] |                       Standard user Orders One Item                       |
+2023-12-19 10:03:29,336 [main] +---------------------------------------------------------------------------+
+2023-12-19 10:03:32,773 [main] THEN I log in
+2023-12-19 10:03:32,774 [main] Set Text by selector By.id: user-name
+2023-12-19 10:03:32,854 [main] Set Text by selector By.id: password
+2023-12-19 10:03:32,957 [main] THEN I add product to cart
+2023-12-19 10:03:32,957 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 10:03:33,013 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 10:03:33,069 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 10:03:33,113 [main] THEN Checkout
+2023-12-19 10:03:33,113 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 10:03:33,173 [main] -----Scenario is FAILED-----
+2023-12-19 10:26:11,594 [main] +---------------------------------------------------------------------------+
+2023-12-19 10:26:11,599 [main] |                       Standard user Orders One Item                       |
+2023-12-19 10:26:11,599 [main] +---------------------------------------------------------------------------+
+2023-12-19 10:26:15,278 [main] THEN I log in
+2023-12-19 10:26:15,278 [main] Set Text by selector By.id: user-name
+2023-12-19 10:26:15,359 [main] Set Text by selector By.id: password
+2023-12-19 10:26:15,458 [main] THEN I add product to cart
+2023-12-19 10:26:15,458 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 10:26:15,527 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 10:26:15,575 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 10:26:15,619 [main] THEN Checkout
+2023-12-19 10:26:15,619 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 10:26:15,678 [main] -----Scenario is FAILED-----
+2023-12-19 10:51:43,261 [main] +---------------------------------------------------------------------------+
+2023-12-19 10:51:43,268 [main] |                       Standard user Orders One Item                       |
+2023-12-19 10:51:43,269 [main] +---------------------------------------------------------------------------+
+2023-12-19 10:51:50,966 [main] THEN I log in
+2023-12-19 10:51:50,966 [main] Set Text by selector By.id: user-name
+2023-12-19 10:51:51,089 [main] Set Text by selector By.id: password
+2023-12-19 10:51:51,243 [main] THEN I add product to cart
+2023-12-19 10:51:51,243 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 10:51:51,319 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 10:51:51,385 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 10:51:51,435 [main] THEN Checkout
+2023-12-19 10:51:51,435 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 10:51:51,497 [main] -----Scenario is FAILED-----
+2023-12-19 10:52:43,263 [main] +---------------------------------------------------------------------------+
+2023-12-19 10:52:43,269 [main] |                       Standard user Orders One Item                       |
+2023-12-19 10:52:43,269 [main] +---------------------------------------------------------------------------+
+2023-12-19 10:52:47,852 [main] THEN I log in
+2023-12-19 10:52:47,852 [main] Set Text by selector By.id: user-name
+2023-12-19 10:52:47,946 [main] Set Text by selector By.id: password
+2023-12-19 10:52:48,086 [main] THEN I add product to cart
+2023-12-19 10:52:48,086 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 10:52:48,134 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 10:52:48,186 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 10:52:48,228 [main] THEN Checkout
+2023-12-19 10:52:48,229 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 10:52:48,294 [main] -----Scenario is FAILED-----
+2023-12-19 11:38:46,756 [main] +---------------------------------------------------------------------------+
+2023-12-19 11:38:46,762 [main] |                       Standard user Orders One Item                       |
+2023-12-19 11:38:46,763 [main] +---------------------------------------------------------------------------+
+2023-12-19 11:38:51,858 [main] THEN I log in
+2023-12-19 11:38:51,858 [main] Set Text by selector By.id: user-name
+2023-12-19 11:38:51,988 [main] Set Text by selector By.id: password
+2023-12-19 11:38:52,169 [main] THEN I add product to cart
+2023-12-19 11:38:52,169 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 11:38:52,247 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 11:38:52,319 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 11:38:52,368 [main] THEN Checkout
+2023-12-19 11:38:52,368 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 11:38:52,428 [main] -----Scenario is FAILED-----
+2023-12-19 15:13:17,432 [main] +---------------------------------------------------------------------------+
+2023-12-19 15:13:17,435 [main] |                       Standard user Orders One Item                       |
+2023-12-19 15:13:17,435 [main] +---------------------------------------------------------------------------+
+2023-12-19 15:13:21,854 [main] THEN I log in
+2023-12-19 15:13:21,854 [main] Set Text by selector By.id: user-name
+2023-12-19 15:13:21,960 [main] Set Text by selector By.id: password
+2023-12-19 15:13:22,066 [main] THEN I add product to cart
+2023-12-19 15:13:22,067 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 15:13:22,123 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 15:13:22,187 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 15:13:22,242 [main] THEN Checkout
+2023-12-19 15:13:22,242 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 15:13:22,292 [main] null
+2023-12-19 15:13:22,314 [main] null
+2023-12-19 15:13:22,318 [main] -----Scenario is FAILED-----
+2023-12-19 15:27:03,713 [main] +---------------------------------------------------------------------------+
+2023-12-19 15:27:03,716 [main] |                       Standard user Orders One Item                       |
+2023-12-19 15:27:03,716 [main] +---------------------------------------------------------------------------+
+2023-12-19 15:27:07,376 [main] THEN I log in
+2023-12-19 15:27:07,377 [main] Set Text by selector By.id: user-name
+2023-12-19 15:27:07,537 [main] Set Text by selector By.id: password
+2023-12-19 15:27:07,733 [main] THEN I add product to cart
+2023-12-19 15:27:07,733 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-19 15:27:07,809 [main] Click element by selector By.className: shopping_cart_link
+2023-12-19 15:27:07,876 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-19 15:27:07,956 [main] THEN Checkout
+2023-12-19 15:27:07,956 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-19 15:27:08,014 [main] null
+2023-12-19 15:27:08,044 [main] null
+2023-12-19 15:27:08,049 [main] -----Scenario is FAILED-----
+2023-12-20 11:45:11,056 [main] +---------------------------------------------------------------------------+
+2023-12-20 11:45:11,060 [main] |                       Standard user Orders One Item                       |
+2023-12-20 11:45:11,060 [main] +---------------------------------------------------------------------------+
+2023-12-20 11:45:17,225 [main] THEN I log in
+2023-12-20 11:45:17,226 [main] Set Text by selector By.id: user-name
+2023-12-20 11:45:17,324 [main] Set Text by selector By.id: password
+2023-12-20 11:45:17,441 [main] THEN I add product to cart
+2023-12-20 11:45:17,442 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 11:45:17,495 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 11:45:17,540 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 11:45:17,584 [main] THEN Checkout
+2023-12-20 11:45:17,584 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 11:45:17,637 [main] null
+2023-12-20 11:45:17,665 [main] null
+2023-12-20 11:45:17,670 [main] -----Scenario is FAILED-----
+2023-12-20 11:47:30,462 [main] +---------------------------------------------------------------------------+
+2023-12-20 11:47:30,466 [main] |                       Standard user Orders One Item                       |
+2023-12-20 11:47:30,466 [main] +---------------------------------------------------------------------------+
+2023-12-20 11:47:33,914 [main] THEN I log in
+2023-12-20 11:47:33,914 [main] Set Text by selector By.id: user-name
+2023-12-20 11:47:34,015 [main] Set Text by selector By.id: password
+2023-12-20 11:47:34,133 [main] THEN I add product to cart
+2023-12-20 11:47:34,133 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 11:47:34,177 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 11:47:34,229 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 11:47:34,287 [main] THEN Checkout
+2023-12-20 11:47:34,288 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 11:47:34,345 [main] -----Scenario is FAILED-----
+2023-12-20 11:48:17,269 [main] +---------------------------------------------------------------------------+
+2023-12-20 11:48:17,273 [main] |                       Standard user Orders One Item                       |
+2023-12-20 11:48:17,273 [main] +---------------------------------------------------------------------------+
+2023-12-20 11:48:20,586 [main] THEN I log in
+2023-12-20 11:48:20,586 [main] Set Text by selector By.id: user-name
+2023-12-20 11:48:20,680 [main] Set Text by selector By.id: password
+2023-12-20 11:48:20,784 [main] THEN I add product to cart
+2023-12-20 11:48:20,784 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 11:48:20,857 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 11:48:20,910 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 11:48:20,963 [main] THEN Checkout
+2023-12-20 11:48:20,964 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 11:48:21,019 [main] -----Scenario is FAILED-----
+2023-12-20 11:48:45,530 [main] +---------------------------------------------------------------------------+
+2023-12-20 11:48:45,533 [main] |                       Standard user Orders One Item                       |
+2023-12-20 11:48:45,534 [main] +---------------------------------------------------------------------------+
+2023-12-20 11:48:49,664 [main] THEN I log in
+2023-12-20 11:48:49,664 [main] Set Text by selector By.id: user-name
+2023-12-20 11:48:49,779 [main] Set Text by selector By.id: password
+2023-12-20 11:48:49,924 [main] THEN I add product to cart
+2023-12-20 11:48:49,924 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 11:48:49,995 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 11:48:50,061 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 11:48:50,114 [main] THEN Checkout
+2023-12-20 11:48:50,114 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 11:48:50,165 [main] null
+2023-12-20 11:48:50,193 [main] null
+2023-12-20 11:48:50,198 [main] -----Scenario is FAILED-----
+2023-12-20 12:12:24,813 [main] +---------------------------------------------------------------------------+
+2023-12-20 12:12:24,817 [main] |                       Standard user Orders One Item                       |
+2023-12-20 12:12:24,817 [main] +---------------------------------------------------------------------------+
+2023-12-20 12:12:28,818 [main] THEN I log in
+2023-12-20 12:12:28,819 [main] Set Text by selector By.id: user-name
+2023-12-20 12:12:28,932 [main] Set Text by selector By.id: password
+2023-12-20 12:12:29,078 [main] THEN I add product to cart
+2023-12-20 12:12:29,078 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 12:12:29,136 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 12:12:29,208 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 12:12:29,284 [main] THEN Checkout
+2023-12-20 12:12:29,285 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 12:12:29,346 [main] null
+2023-12-20 12:12:29,371 [main] null
+2023-12-20 12:12:29,376 [main] -----Scenario is FAILED-----
+2023-12-20 12:13:01,408 [main] +---------------------------------------------------------------------------+
+2023-12-20 12:13:01,411 [main] |                       Standard user Orders One Item                       |
+2023-12-20 12:13:01,412 [main] +---------------------------------------------------------------------------+
+2023-12-20 12:13:04,803 [main] THEN I log in
+2023-12-20 12:13:04,803 [main] Set Text by selector By.id: user-name
+2023-12-20 12:13:04,899 [main] Set Text by selector By.id: password
+2023-12-20 12:13:05,003 [main] THEN I add product to cart
+2023-12-20 12:13:05,003 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 12:13:05,063 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 12:13:05,118 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 12:13:05,163 [main] THEN Checkout
+2023-12-20 12:13:05,163 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 12:13:05,230 [main] null
+2023-12-20 12:13:05,230 [main] null
+2023-12-20 12:13:05,234 [main] -----Scenario is FAILED-----
+2023-12-20 12:24:39,963 [main] +---------------------------------------------------------------------------+
+2023-12-20 12:24:39,968 [main] |                       Standard user Orders One Item                       |
+2023-12-20 12:24:39,968 [main] +---------------------------------------------------------------------------+
+2023-12-20 12:24:43,450 [main] THEN I log in
+2023-12-20 12:24:43,450 [main] Set Text by selector By.id: user-name
+2023-12-20 12:24:43,529 [main] Set Text by selector By.id: password
+2023-12-20 12:24:43,631 [main] THEN I add product to cart
+2023-12-20 12:24:43,631 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 12:24:43,686 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 12:24:43,747 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 12:24:43,804 [main] THEN Checkout
+2023-12-20 12:24:43,805 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 12:24:43,853 [main] null
+2023-12-20 12:24:43,872 [main] null
+2023-12-20 12:24:43,876 [main] -----Scenario is FAILED-----
+2023-12-20 12:31:01,687 [main] +---------------------------------------------------------------------------+
+2023-12-20 12:31:01,691 [main] |                       Standard user Orders One Item                       |
+2023-12-20 12:31:01,691 [main] +---------------------------------------------------------------------------+
+2023-12-20 12:31:05,163 [main] THEN I log in
+2023-12-20 12:31:05,163 [main] Set Text by selector By.id: user-name
+2023-12-20 12:31:05,243 [main] Set Text by selector By.id: password
+2023-12-20 12:31:05,343 [main] THEN I add product to cart
+2023-12-20 12:31:05,344 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 12:31:05,404 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 12:31:05,460 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 12:31:05,504 [main] THEN Checkout
+2023-12-20 12:31:05,504 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 12:31:05,552 [main] null
+2023-12-20 12:31:05,571 [main] null
+2023-12-20 12:31:05,575 [main] -----Scenario is FAILED-----
+2023-12-20 13:00:52,828 [main] +---------------------------------------------------------------------------+
+2023-12-20 13:00:52,838 [main] |                       Standard user Orders One Item                       |
+2023-12-20 13:00:52,838 [main] +---------------------------------------------------------------------------+
+2023-12-20 13:00:58,118 [main] THEN I log in
+2023-12-20 13:00:58,118 [main] Set Text by selector By.id: user-name
+2023-12-20 13:00:58,223 [main] Set Text by selector By.id: password
+2023-12-20 13:00:58,349 [main] THEN I add product to cart
+2023-12-20 13:00:58,350 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 13:00:58,422 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 13:00:58,486 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 13:00:58,538 [main] THEN Checkout
+2023-12-20 13:00:58,538 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 13:00:58,591 [main] null
+2023-12-20 13:00:58,622 [main] null
+2023-12-20 13:00:58,628 [main] -----Scenario is FAILED-----
+2023-12-20 13:03:14,898 [main] +---------------------------------------------------------------------------+
+2023-12-20 13:03:14,902 [main] |                       Standard user Orders One Item                       |
+2023-12-20 13:03:14,902 [main] +---------------------------------------------------------------------------+
+2023-12-20 13:03:18,369 [main] THEN I log in
+2023-12-20 13:03:18,369 [main] Set Text by selector By.id: user-name
+2023-12-20 13:03:18,444 [main] Set Text by selector By.id: password
+2023-12-20 13:03:18,550 [main] THEN I add product to cart
+2023-12-20 13:03:18,551 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-20 13:03:18,619 [main] Click element by selector By.className: shopping_cart_link
+2023-12-20 13:03:18,666 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-20 13:03:18,710 [main] THEN Checkout
+2023-12-20 13:03:18,710 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-20 13:03:18,762 [main] null
+2023-12-20 13:03:18,784 [main] null
+2023-12-20 13:03:18,787 [main] -----Scenario is FAILED-----
+2023-12-21 13:53:40,692 [main] +---------------------------------------------------------------------------+
+2023-12-21 13:53:40,696 [main] |                       Standard user Orders One Item                       |
+2023-12-21 13:53:40,696 [main] +---------------------------------------------------------------------------+
+2023-12-21 13:53:46,163 [main] THEN I log in
+2023-12-21 13:53:46,164 [main] Set Text by selector By.id: user-name
+2023-12-21 13:53:46,237 [main] Set Text by selector By.id: password
+2023-12-21 13:53:46,332 [main] THEN I add product to cart
+2023-12-21 13:53:46,332 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-21 13:53:46,404 [main] Click element by selector By.className: shopping_cart_link
+2023-12-21 13:53:46,461 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-21 13:53:46,520 [main] THEN Checkout
+2023-12-21 13:53:46,521 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-21 13:53:46,568 [main] null
+2023-12-21 13:53:46,593 [main] null
+2023-12-21 13:53:46,597 [main] -----Scenario is FAILED-----
+2023-12-21 14:08:45,023 [main] +---------------------------------------------------------------------------+
+2023-12-21 14:08:45,030 [main] |                       Standard user Orders One Item                       |
+2023-12-21 14:08:45,030 [main] +---------------------------------------------------------------------------+
+2023-12-21 14:08:50,824 [main] THEN I log in
+2023-12-21 14:08:50,824 [main] Set Text by selector By.id: user-name
+2023-12-21 14:08:51,002 [main] Set Text by selector By.id: password
+2023-12-21 14:08:51,228 [main] THEN I add product to cart
+2023-12-21 14:08:51,228 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-21 14:08:51,332 [main] Click element by selector By.className: shopping_cart_link
+2023-12-21 14:08:51,436 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-21 14:08:51,518 [main] THEN Checkout
+2023-12-21 14:08:51,518 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-21 14:08:51,589 [main] -----Scenario is FAILED-----
+2023-12-21 14:09:19,383 [main] +---------------------------------------------------------------------------+
+2023-12-21 14:09:19,391 [main] |                       Standard user Orders One Item                       |
+2023-12-21 14:09:19,391 [main] +---------------------------------------------------------------------------+
+2023-12-21 14:09:24,824 [main] THEN I log in
+2023-12-21 14:09:24,825 [main] Set Text by selector By.id: user-name
+2023-12-21 14:09:24,992 [main] Set Text by selector By.id: password
+2023-12-21 14:09:25,218 [main] THEN I add product to cart
+2023-12-21 14:09:25,219 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-21 14:09:25,308 [main] Click element by selector By.className: shopping_cart_link
+2023-12-21 14:09:25,415 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-21 14:09:25,510 [main] THEN Checkout
+2023-12-21 14:09:25,511 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-21 14:09:25,585 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-21 14:09:25,681 [main] THEN Fill info {string} {string} {string}
+2023-12-21 14:09:25,681 [main] Set Text by selector By.id: first-name
+2023-12-21 14:09:25,807 [main] Set Text by selector By.id: last-name
+2023-12-21 14:09:25,917 [main] Set Text by selector By.id: postal-code
+2023-12-21 14:09:26,007 [main] Click element by selector By.id: continue
+2023-12-21 14:09:26,112 [main] THEN Return to home page
+2023-12-21 14:09:26,113 [main] Click element by selector By.id: finish
+2023-12-21 14:09:26,177 [main] Click element by selector By.id: back-to-products
+2023-12-21 14:09:26,265 [main] THEN Page should be valid
+2023-12-22 11:51:00,074 [main] +---------------------------------------------------------------------------+
+2023-12-22 11:51:00,078 [main] |                       Standard user Orders One Item                       |
+2023-12-22 11:51:00,078 [main] +---------------------------------------------------------------------------+
+2023-12-22 11:51:03,668 [main] THEN I log in
+2023-12-22 11:51:03,668 [main] Set Text by selector By.id: user-name
+2023-12-22 11:51:03,778 [main] Set Text by selector By.id: password
+2023-12-22 11:51:03,884 [main] THEN I add product to cart
+2023-12-22 11:51:03,884 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 11:51:03,944 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 11:51:03,998 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 11:51:04,041 [main] THEN Checkout
+2023-12-22 11:51:04,041 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 11:51:04,088 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 11:51:04,142 [main] THEN Fill info {string} {string} {string}
+2023-12-22 11:51:04,142 [main] Set Text by selector By.id: first-name
+2023-12-22 11:51:04,208 [main] Set Text by selector By.id: last-name
+2023-12-22 11:51:04,279 [main] Set Text by selector By.id: postal-code
+2023-12-22 11:51:04,342 [main] Click element by selector By.id: continue
+2023-12-22 11:51:04,397 [main] THEN Return to home page
+2023-12-22 11:51:04,397 [main] Click element by selector By.id: finish
+2023-12-22 11:51:04,449 [main] Click element by selector By.id: back-to-products
+2023-12-22 11:51:04,506 [main] THEN Page should be valid
+2023-12-22 12:00:38,132 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:00:38,136 [main] |                       Standard user Orders One Item                       |
+2023-12-22 12:00:38,136 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:00:40,711 [main] THEN I log in
+2023-12-22 12:00:40,711 [main] Set Text by selector By.id: user-name
+2023-12-22 12:00:40,792 [main] Set Text by selector By.id: password
+2023-12-22 12:00:40,896 [main] THEN I add product to cart
+2023-12-22 12:00:40,896 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 12:00:40,966 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 12:00:41,034 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 12:00:41,089 [main] THEN Checkout
+2023-12-22 12:00:41,089 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 12:00:41,138 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 12:00:41,190 [main] THEN Fill info
+2023-12-22 12:00:41,190 [main] Unable to [retrieve address of] [service Name]. Component is [not found in available services table].
+2023-12-22 12:00:41,196 [main] -----Scenario is FAILED-----
+2023-12-22 12:03:50,694 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:03:50,698 [main] |                       Standard user Orders One Item                       |
+2023-12-22 12:03:50,698 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:03:53,300 [main] THEN I log in
+2023-12-22 12:03:53,300 [main] Set Text by selector By.id: user-name
+2023-12-22 12:03:53,383 [main] Set Text by selector By.id: password
+2023-12-22 12:03:53,483 [main] THEN I add product to cart
+2023-12-22 12:03:53,483 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 12:03:53,556 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 12:03:53,615 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 12:03:53,658 [main] THEN Checkout
+2023-12-22 12:03:53,658 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 12:03:53,709 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 12:03:53,751 [main] THEN Fill info
+2023-12-22 12:03:53,751 [main] Set Text by selector By.id: first-name
+2023-12-22 12:03:53,811 [main] Set Text by selector By.id: last-name
+2023-12-22 12:03:53,897 [main] Set Text by selector By.id: postal-code
+2023-12-22 12:03:53,948 [main] Click element by selector By.id: continue
+2023-12-22 12:03:54,028 [main] THEN Return to home page
+2023-12-22 12:03:54,028 [main] Click element by selector By.id: finish
+2023-12-22 12:03:54,082 [main] Click element by selector By.id: back-to-products
+2023-12-22 12:03:54,135 [main] THEN Page should be valid
+2023-12-22 12:08:28,429 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:08:28,432 [main] |                       Standard user Orders One Item                       |
+2023-12-22 12:08:28,433 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:08:31,120 [main] THEN I log in
+2023-12-22 12:08:31,120 [main] Set Text by selector By.id: user-name
+2023-12-22 12:08:31,200 [main] Set Text by selector By.id: password
+2023-12-22 12:08:31,303 [main] THEN I add product to cart
+2023-12-22 12:08:31,303 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 12:08:31,364 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 12:08:31,422 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 12:08:31,479 [main] THEN Checkout
+2023-12-22 12:08:31,480 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 12:08:31,528 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 12:08:31,569 [main] THEN Fill info
+2023-12-22 12:08:31,569 [main] Set Text by selector By.id: first-name
+2023-12-22 12:08:31,630 [main] Set Text by selector By.id: last-name
+2023-12-22 12:08:31,699 [main] Set Text by selector By.id: postal-code
+2023-12-22 12:08:31,767 [main] Click element by selector By.id: continue
+2023-12-22 12:08:31,845 [main] THEN Return to home page
+2023-12-22 12:08:31,846 [main] Click element by selector By.id: finish
+2023-12-22 12:08:31,897 [main] Click element by selector By.id: back-to-products
+2023-12-22 12:08:31,947 [main] THEN Page should be valid
+2023-12-22 12:11:58,820 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:11:58,824 [main] |                       Problem user Orders One Item                        |
+2023-12-22 12:11:58,824 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:22:14,649 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:22:14,654 [main] |                       Problem user Orders One Item                        |
+2023-12-22 12:22:14,654 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:22:17,208 [main] THEN I log in
+2023-12-22 12:22:17,213 [main] Set Text by selector By.id: user-name
+2023-12-22 12:22:17,289 [main] Set Text by selector By.id: password
+2023-12-22 12:22:17,362 [main] -----Scenario is FAILED-----
+2023-12-22 12:24:26,466 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:24:26,469 [main] |                       Problem user Orders One Item                        |
+2023-12-22 12:24:26,470 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:24:29,176 [main] THEN I log in
+2023-12-22 12:24:29,182 [main] Set Text by selector By.id: user-name
+2023-12-22 12:24:29,286 [main] Set Text by selector By.id: password
+2023-12-22 12:24:29,359 [main] -----Scenario is FAILED-----
+2023-12-22 12:25:03,683 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:25:03,688 [main] |                       Problem user Orders One Item                        |
+2023-12-22 12:25:03,688 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:25:06,162 [main] THEN I log in
+2023-12-22 12:25:06,166 [main] Set Text by selector By.id: user-name
+2023-12-22 12:25:06,271 [main] Set Text by selector By.id: password
+2023-12-22 12:25:06,363 [main] -----Scenario is FAILED-----
+2023-12-22 12:25:36,119 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:25:36,123 [main] |                       Problem user Orders One Item                        |
+2023-12-22 12:25:36,123 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:25:38,765 [main] THEN I log in
+2023-12-22 12:25:38,775 [main] Set Text by selector By.id: user-name
+2023-12-22 12:25:38,904 [main] Set Text by selector By.id: password
+2023-12-22 12:25:39,004 [main] THEN I add product to cart
+2023-12-22 12:25:39,004 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 12:28:37,886 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:28:37,890 [main] |                       Problem user Orders One Item                        |
+2023-12-22 12:28:37,890 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:28:40,490 [main] THEN I log in
+2023-12-22 12:28:40,495 [main] Set Text by selector By.id: user-name
+2023-12-22 12:28:40,563 [main] Set Text by selector By.id: password
+2023-12-22 12:28:40,674 [main] THEN I add product to cart
+2023-12-22 12:28:40,675 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 12:28:40,744 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 12:28:40,788 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 12:28:40,836 [main] THEN Checkout
+2023-12-22 12:28:40,836 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 12:28:40,881 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 12:28:40,936 [main] THEN Fill info
+2023-12-22 12:28:40,936 [main] Set Text by selector By.id: first-name
+2023-12-22 12:28:41,006 [main] Set Text by selector By.id: last-name
+2023-12-22 12:28:41,070 [main] Set Text by selector By.id: postal-code
+2023-12-22 12:28:41,126 [main] Click element by selector By.id: continue
+2023-12-22 12:28:41,204 [main] -----Scenario is FAILED-----
+2023-12-22 12:29:18,457 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:29:18,461 [main] |                       Problem user Orders One Item                        |
+2023-12-22 12:29:18,461 [main] +---------------------------------------------------------------------------+
+2023-12-22 12:29:20,975 [main] THEN I log in
+2023-12-22 12:29:20,980 [main] Set Text by selector By.id: user-name
+2023-12-22 12:29:21,051 [main] Set Text by selector By.id: password
+2023-12-22 12:29:21,158 [main] THEN I add product to cart
+2023-12-22 12:29:21,158 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 12:29:21,213 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 12:29:21,271 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 12:29:21,317 [main] THEN Checkout
+2023-12-22 12:29:21,317 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 12:29:21,365 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 12:29:21,421 [main] THEN Fill info
+2023-12-22 12:29:21,421 [main] Set Text by selector By.id: first-name
+2023-12-22 12:29:21,483 [main] Set Text by selector By.id: last-name
+2023-12-22 12:29:21,555 [main] Set Text by selector By.id: postal-code
+2023-12-22 12:29:21,611 [main] Click element by selector By.id: continue
+2023-12-22 12:29:21,687 [main] -----Scenario is FAILED-----
+2023-12-22 13:05:44,315 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:05:44,319 [main] |                  Performance glitch user Orders One Item                  |
+2023-12-22 13:05:44,320 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:05:47,424 [main] THEN I log in
+2023-12-22 13:05:47,429 [main] Set Text by selector By.id: user-name
+2023-12-22 13:05:47,501 [main] Set Text by selector By.id: password
+2023-12-22 13:05:47,623 [main] THEN I add product to cart
+2023-12-22 13:05:47,623 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 13:05:47,681 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 13:05:47,741 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 13:05:47,798 [main] THEN Checkout
+2023-12-22 13:05:47,799 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 13:05:47,860 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 13:05:47,943 [main] THEN Fill info
+2023-12-22 13:05:47,944 [main] Set Text by selector By.id: first-name
+2023-12-22 13:05:48,043 [main] Set Text by selector By.id: last-name
+2023-12-22 13:05:48,230 [main] Set Text by selector By.id: postal-code
+2023-12-22 13:05:48,335 [main] Click element by selector By.id: continue
+2023-12-22 13:05:48,452 [main] -----Scenario is FAILED-----
+2023-12-22 13:07:15,648 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:07:15,652 [main] |                  Performance glitch user Orders One Item                  |
+2023-12-22 13:07:15,652 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:07:18,258 [main] THEN I log in
+2023-12-22 13:07:18,266 [main] Set Text by selector By.id: user-name
+2023-12-22 13:07:18,357 [main] Set Text by selector By.id: password
+2023-12-22 13:07:23,499 [main] -----Scenario is FAILED-----
+2023-12-22 13:07:31,553 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:07:31,558 [main] |                  Performance glitch user Orders One Item                  |
+2023-12-22 13:07:31,558 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:07:34,144 [main] THEN I log in
+2023-12-22 13:07:34,149 [main] Set Text by selector By.id: user-name
+2023-12-22 13:07:34,240 [main] Set Text by selector By.id: password
+2023-12-22 13:07:39,351 [main] THEN I add product to cart
+2023-12-22 13:07:39,351 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 13:07:39,399 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 13:07:39,449 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 13:07:39,494 [main] THEN Checkout
+2023-12-22 13:07:39,494 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 13:07:39,537 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 13:07:39,592 [main] THEN Fill info
+2023-12-22 13:07:39,592 [main] Set Text by selector By.id: first-name
+2023-12-22 13:07:39,660 [main] Set Text by selector By.id: last-name
+2023-12-22 13:07:39,730 [main] Set Text by selector By.id: postal-code
+2023-12-22 13:07:39,784 [main] Click element by selector By.id: continue
+2023-12-22 13:07:39,860 [main] THEN Return to home page
+2023-12-22 13:07:39,860 [main] Click element by selector By.id: finish
+2023-12-22 13:07:39,912 [main] Click element by selector By.id: back-to-products
+2023-12-22 13:07:44,967 [main] THEN Page should be valid
+2023-12-22 13:26:57,380 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:26:57,386 [main] |                  Performance glitch user Orders One Item                  |
+2023-12-22 13:26:57,386 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:27:00,033 [main] THEN I log in
+2023-12-22 13:27:00,038 [main] Set Text by selector By.id: user-name
+2023-12-22 13:27:00,139 [main] Set Text by selector By.id: password
+2023-12-22 13:27:05,257 [main] THEN I add product to cart
+2023-12-22 13:27:05,257 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 13:27:05,300 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 13:27:05,355 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 13:27:05,398 [main] THEN Checkout
+2023-12-22 13:27:05,398 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 13:27:05,443 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 13:27:05,506 [main] -----Scenario is FAILED-----
+2023-12-22 13:28:08,211 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:28:08,215 [main] |                       Standard user Orders One Item                       |
+2023-12-22 13:28:08,215 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:28:10,774 [main] THEN I log in
+2023-12-22 13:28:10,780 [main] Set Text by selector By.id: user-name
+2023-12-22 13:28:10,858 [main] Set Text by selector By.id: password
+2023-12-22 13:28:15,993 [main] -----Scenario is FAILED-----
+2023-12-22 13:30:07,967 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:30:07,971 [main] |                       Standard user Orders One Item                       |
+2023-12-22 13:30:07,971 [main] +---------------------------------------------------------------------------+
+2023-12-22 13:30:10,485 [main] THEN I log in
+2023-12-22 13:30:10,490 [main] Set Text by selector By.id: user-name
+2023-12-22 13:30:10,574 [main] Set Text by selector By.id: password
+2023-12-22 13:30:10,683 [main] THEN I add product to cart
+2023-12-22 13:30:10,683 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-22 13:30:10,749 [main] Click element by selector By.className: shopping_cart_link
+2023-12-22 13:30:10,800 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-22 13:30:10,844 [main] THEN Checkout
+2023-12-22 13:30:10,844 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-22 13:30:10,892 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-22 13:30:10,946 [main] THEN Fill info
+2023-12-22 13:30:10,946 [main] Set Text by selector By.id: first-name
+2023-12-22 13:30:11,010 [main] Set Text by selector By.id: last-name
+2023-12-22 13:30:11,079 [main] Set Text by selector By.id: postal-code
+2023-12-22 13:30:11,129 [main] Click element by selector By.id: continue
+2023-12-22 13:30:11,206 [main] THEN Return to home page
+2023-12-22 13:30:11,207 [main] Click element by selector By.id: finish
+2023-12-22 13:30:11,261 [main] Click element by selector By.id: back-to-products
+2023-12-22 13:30:11,311 [main] THEN Page should be valid
+2023-12-27 11:02:07,857 [main] +---------------------------------------------------------------------------+
+2023-12-27 11:02:07,863 [main] |                  Performance glitch user Orders One Item                  |
+2023-12-27 11:02:07,863 [main] +---------------------------------------------------------------------------+
+2023-12-27 11:02:12,176 [main] THEN I log in
+2023-12-27 11:02:12,185 [main] Set Text by selector By.id: user-name
+2023-12-27 11:02:12,323 [main] Set Text by selector By.id: password
+2023-12-27 11:02:12,491 [main] THEN I add product to cart
+2023-12-27 11:02:12,492 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-27 11:02:12,571 [main] Click element by selector By.className: shopping_cart_link
+2023-12-27 11:02:12,650 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-27 11:02:12,729 [main] THEN Checkout
+2023-12-27 11:02:12,729 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-27 11:02:12,781 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-27 11:02:12,856 [main] THEN Fill info
+2023-12-27 11:02:12,856 [main] Set Text by selector By.id: first-name
+2023-12-27 11:02:12,930 [main] Set Text by selector By.id: last-name
+2023-12-27 11:02:13,043 [main] Set Text by selector By.id: postal-code
+2023-12-27 11:02:13,132 [main] Click element by selector By.id: continue
+2023-12-27 11:02:13,233 [main] THEN Return to home page
+2023-12-27 11:02:13,233 [main] Click element by selector By.id: finish
+2023-12-27 11:02:13,320 [main] Click element by selector By.id: back-to-products
+2023-12-27 11:02:13,383 [main] THEN Page should be valid
+2023-12-27 11:02:52,775 [main] +---------------------------------------------------------------------------+
+2023-12-27 11:02:52,782 [main] |                       Problem user Orders One Item                        |
+2023-12-27 11:02:52,783 [main] +---------------------------------------------------------------------------+
+2023-12-27 11:02:56,037 [main] THEN I log in
+2023-12-27 11:02:56,044 [main] Set Text by selector By.id: user-name
+2023-12-27 11:02:56,180 [main] Set Text by selector By.id: password
+2023-12-27 11:02:56,365 [main] THEN I add product to cart
+2023-12-27 11:02:56,365 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-27 11:02:56,427 [main] Click element by selector By.className: shopping_cart_link
+2023-12-27 11:02:56,490 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-27 11:02:56,543 [main] THEN Checkout
+2023-12-27 11:02:56,544 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-27 11:02:56,587 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-27 11:02:56,662 [main] THEN Fill info
+2023-12-27 11:02:56,662 [main] Set Text by selector By.id: first-name
+2023-12-27 11:02:56,734 [main] Set Text by selector By.id: last-name
+2023-12-27 11:02:56,829 [main] Set Text by selector By.id: postal-code
+2023-12-27 11:02:56,918 [main] Click element by selector By.id: continue
+2023-12-27 11:02:57,003 [main] THEN Return to home page
+2023-12-27 11:02:57,003 [main] Click element by selector By.id: finish
+2023-12-27 11:02:57,065 [main] Click element by selector By.id: back-to-products
+2023-12-27 11:02:57,133 [main] THEN Page should be valid
+2023-12-27 11:03:49,725 [main] +---------------------------------------------------------------------------+
+2023-12-27 11:03:49,731 [main] |                       Problem user Orders One Item                        |
+2023-12-27 11:03:49,731 [main] +---------------------------------------------------------------------------+
+2023-12-27 11:03:52,881 [main] THEN I log in
+2023-12-27 11:03:52,889 [main] Set Text by selector By.id: user-name
+2023-12-27 11:03:53,040 [main] Set Text by selector By.id: password
+2023-12-27 11:03:53,266 [main] THEN I add product to cart
+2023-12-27 11:03:53,266 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-27 11:03:53,362 [main] Click element by selector By.className: shopping_cart_link
+2023-12-27 11:03:53,484 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-27 11:03:53,554 [main] THEN Checkout
+2023-12-27 11:03:53,554 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-27 11:03:53,626 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-27 11:03:53,729 [main] THEN Fill info
+2023-12-27 11:03:53,729 [main] Set Text by selector By.id: first-name
+2023-12-27 11:03:53,814 [main] Set Text by selector By.id: last-name
+2023-12-27 11:03:53,918 [main] Set Text by selector By.id: postal-code
+2023-12-27 11:03:54,026 [main] Click element by selector By.id: continue
+2023-12-27 11:03:54,146 [main] -----Scenario is FAILED-----
+2023-12-27 11:04:22,286 [main] +---------------------------------------------------------------------------+
+2023-12-27 11:04:22,292 [main] |                       Problem user Orders One Item                        |
+2023-12-27 11:04:22,293 [main] +---------------------------------------------------------------------------+
+2023-12-27 11:04:25,466 [main] THEN I log in
+2023-12-27 11:04:25,475 [main] Set Text by selector By.id: user-name
+2023-12-27 11:04:25,618 [main] Set Text by selector By.id: password
+2023-12-27 11:04:30,780 [main] THEN I add product to cart
+2023-12-27 11:04:30,780 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2023-12-27 11:04:30,844 [main] Click element by selector By.className: shopping_cart_link
+2023-12-27 11:04:30,916 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2023-12-27 11:04:30,999 [main] THEN Checkout
+2023-12-27 11:04:31,000 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2023-12-27 11:04:31,066 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2023-12-27 11:04:31,143 [main] THEN Fill info
+2023-12-27 11:04:31,143 [main] Set Text by selector By.id: first-name
+2023-12-27 11:04:31,224 [main] Set Text by selector By.id: last-name
+2023-12-27 11:04:31,339 [main] Set Text by selector By.id: postal-code
+2023-12-27 11:04:31,429 [main] Click element by selector By.id: continue
+2023-12-27 11:04:31,518 [main] THEN Return to home page
+2023-12-27 11:04:31,518 [main] Click element by selector By.id: finish
+2023-12-27 11:04:31,585 [main] Click element by selector By.id: back-to-products
+2023-12-27 11:04:36,676 [main] THEN Page should be valid
+2024-01-02 11:00:51,531 [main] +---------------------------------------------------------------------------+
+2024-01-02 11:00:51,535 [main] |                       Problem user Orders One Item                        |
+2024-01-02 11:00:51,535 [main] +---------------------------------------------------------------------------+
+2024-01-02 11:00:55,398 [main] THEN I log in
+2024-01-02 11:00:55,404 [main] Set Text by selector By.id: user-name
+2024-01-02 11:00:55,482 [main] Set Text by selector By.id: password
+2024-01-02 11:00:55,616 [main] THEN I add product to cart
+2024-01-02 11:00:55,616 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2024-01-02 11:00:55,671 [main] Click element by selector By.className: shopping_cart_link
+2024-01-02 11:00:55,735 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2024-01-02 11:00:55,785 [main] THEN Checkout
+2024-01-02 11:00:55,785 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2024-01-02 11:00:55,830 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2024-01-02 11:00:55,887 [main] THEN Fill info
+2024-01-02 11:00:55,887 [main] Set Text by selector By.id: first-name
+2024-01-02 11:00:55,955 [main] Set Text by selector By.id: last-name
+2024-01-02 11:00:56,020 [main] Set Text by selector By.id: postal-code
+2024-01-02 11:00:56,084 [main] Click element by selector By.id: continue
+2024-01-02 11:00:56,169 [main] THEN Return to home page
+2024-01-02 11:00:56,169 [main] Click element by selector By.id: finish
+2024-01-02 11:00:56,223 [main] Click element by selector By.id: back-to-products
+2024-01-02 11:00:56,270 [main] THEN Page should be valid
+2024-01-09 10:48:19,137 [main] +---------------------------------------------------------------------------+
+2024-01-09 10:48:19,143 [main] |                       Problem user Orders One Item                        |
+2024-01-09 10:48:19,144 [main] +---------------------------------------------------------------------------+
+2024-01-09 10:48:23,512 [main] THEN I log in
+2024-01-09 10:48:23,518 [main] Set Text by selector By.id: user-name
+2024-01-09 10:48:23,601 [main] Set Text by selector By.id: password
+2024-01-09 10:48:23,692 [main] THEN I add product to cart
+2024-01-09 10:48:23,693 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2024-01-09 10:48:23,755 [main] Click element by selector By.className: shopping_cart_link
+2024-01-09 10:48:23,807 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2024-01-09 10:48:23,867 [main] THEN Checkout
+2024-01-09 10:48:23,868 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2024-01-09 10:48:23,912 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2024-01-09 10:48:23,968 [main] THEN Fill info
+2024-01-09 10:48:23,968 [main] Set Text by selector By.id: first-name
+2024-01-09 10:48:24,028 [main] Set Text by selector By.id: last-name
+2024-01-09 10:48:24,101 [main] Set Text by selector By.id: postal-code
+2024-01-09 10:48:24,165 [main] Click element by selector By.id: continue
+2024-01-09 10:48:24,250 [main] THEN Return to home page
+2024-01-09 10:48:24,250 [main] Click element by selector By.id: finish
+2024-01-09 10:48:24,305 [main] Click element by selector By.id: back-to-products
+2024-01-09 10:48:24,356 [main] THEN Page should be valid
+2024-01-15 12:43:05,834 [main] +---------------------------------------------------------------------------+
+2024-01-15 12:43:05,839 [main] |                       Standard user Orders One Item                       |
+2024-01-15 12:43:05,839 [main] +---------------------------------------------------------------------------+
+2024-01-15 12:43:09,733 [main] THEN I login as standard user
+2024-01-15 12:43:09,740 [main] Set Text by selector By.id: user-name
+2024-01-15 12:43:09,825 [main] Set Text by selector By.id: password
+2024-01-15 12:43:09,950 [main] THEN I add product to cart
+2024-01-15 12:43:09,950 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2024-01-15 12:43:10,003 [main] Click element by selector By.className: shopping_cart_link
+2024-01-15 12:43:10,052 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a[1]/span[1]
+2024-01-15 12:43:10,112 [main] THEN I do checkout
+2024-01-15 12:43:10,112 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2024-01-15 12:43:10,152 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2024-01-15 12:43:10,211 [main] THEN I fill info
+2024-01-15 12:43:10,212 [main] Set Text by selector By.id: first-name
+2024-01-15 12:43:10,278 [main] Set Text by selector By.id: last-name
+2024-01-15 12:43:10,353 [main] Set Text by selector By.id: postal-code
+2024-01-15 12:43:10,422 [main] Click element by selector By.id: continue
+2024-01-15 12:43:10,504 [main] THEN I return to home page
+2024-01-15 12:43:10,504 [main] Click element by selector By.id: finish
+2024-01-15 12:43:10,558 [main] Click element by selector By.id: back-to-products
+2024-01-15 12:43:10,625 [main] THEN I check if homepage valid
+2024-01-15 12:44:34,611 [main] +---------------------------------------------------------------------------+
+2024-01-15 12:44:34,615 [main] |                       Standard user Orders One Item                       |
+2024-01-15 12:44:34,615 [main] +---------------------------------------------------------------------------+
+2024-01-15 12:44:37,157 [main] THEN I login as standard user
+2024-01-15 12:44:37,162 [main] Set Text by selector By.id: user-name
+2024-01-15 12:44:37,248 [main] Set Text by selector By.id: password
+2024-01-15 12:44:37,360 [main] THEN I add product to cart
+2024-01-15 12:44:37,360 [main] Click element by selector By.id: add-to-cart-sauce-labs-backpack
+2024-01-15 12:44:37,414 [main] Click element by selector By.className: shopping_cart_link
+2024-01-15 12:44:37,473 [main] Looking for element by selector By.xpath: //div[@id='shopping_cart_container']/a/span
+2024-01-15 12:44:37,515 [main] THEN I do checkout
+2024-01-15 12:44:37,516 [main] Looking for element by selector By.xpath: //div[@class='inventory_item_name']
+2024-01-15 12:44:37,559 [main] Click element by selector By.xpath: //*[text()='Checkout']
+2024-01-15 12:44:37,618 [main] THEN I fill info
+2024-01-15 12:44:37,618 [main] Set Text by selector By.id: first-name
+2024-01-15 12:44:37,682 [main] Set Text by selector By.id: last-name
+2024-01-15 12:44:37,750 [main] Set Text by selector By.id: postal-code
+2024-01-15 12:44:37,804 [main] Click element by selector By.id: continue
+2024-01-15 12:44:37,880 [main] THEN I return to home page
+2024-01-15 12:44:37,880 [main] Click element by selector By.id: finish
+2024-01-15 12:44:37,931 [main] Click element by selector By.id: back-to-products
+2024-01-15 12:44:37,984 [main] THEN I check if homepage valid
